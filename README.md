@@ -1,1 +1,2 @@
-# lp3-2020
+# lp3-tp2020
+Template base para trabajo práctico de LP3, edición 2020
